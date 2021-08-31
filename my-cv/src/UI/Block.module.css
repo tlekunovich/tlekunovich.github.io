@@ -1,0 +1,18 @@
+.Block{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.BlockItem{
+    width: 800px;
+    height: 60px;
+    background-color:#A07086;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-top: 50px;
+    font-size: 32px;
+    font-weight: 400;
+    text-shadow: 1px 1px 3px #e1e0e0;
+}

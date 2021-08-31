@@ -1,0 +1,17 @@
+.App{
+    height: 100%;
+    display: flex;
+    font-display: row;
+    background:linear-gradient(#DBCFCF 30%, #FFFFFF 100%);
+    font-family: 'Cantata One', serif;
+   
+}
+
+
+.container{
+width: 1680px;
+margin: 0 auto;
+background-color:#FF8989;
+display: flex;
+flex-direction: row;
+}
